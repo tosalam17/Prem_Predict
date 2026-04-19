@@ -1,5 +1,5 @@
-*data/
-*notebooks/
-*.pyc
-__pycache__/
-*.venv/
+# *data/
+# *notebooks/
+# *.pyc
+# __pycache__/
+# *.venv/
