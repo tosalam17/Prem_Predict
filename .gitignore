@@ -1,0 +1,4 @@
+*data/
+*notebooks/
+*.pyc
+__pycache__/
